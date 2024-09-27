@@ -3,7 +3,5 @@
 
 - 🌱 I’m learning **Go and HTMX at the moment**
 
-- 📫 How to reach me **teerapatboriboon4202@gmail.com**
-
 - ⚡ Familiar with **Go and Python**
 
